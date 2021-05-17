@@ -33,10 +33,10 @@ I used the Datawrapper application to visualize the data I collected in my proje
   <link> : https://research.stlouisfed.org/dashboard/49765
   
 - Also, i collected other data sets and created its tables. It is in the data file of my repository. I use these reliable sources as follows.
-<link> : https://blogs.worldbank.org/voices/2020-year-review-impact-covid-19-12-charts
+<link>   : https://blogs.worldbank.org/voices/2020-year-review-impact-covid-19-12-charts
 
 - Finally, this page helps us about what is the Covid-19 affect on Turkey?
-<link> : https://sarkac.org/2020/07/covid-19-tarim-ve-gida-dunyada-ve-turkiyede-neler-yasandi-neler-yasanacak/
+<link>   : https://sarkac.org/2020/07/covid-19-tarim-ve-gida-dunyada-ve-turkiyede-neler-yasandi-neler-yasanacak/
 
 # The Challenges Of Data Gathering
 
