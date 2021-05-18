@@ -42,6 +42,9 @@
 
   **My first aim of doing this study was to research and consider the positive and negative effects on markets and greengrocers instead of pandemic and quarantine processes. But while doing research, I noticed. Yes, there are some news, but I had difficulty finding research academically. Obviously, when we look at the world dimension of the business, it was not easy to find, but at least it was easier than in Turkey. Finding data was again difficult. But I was able to access some data with the help of known and trusted news agencies as much as I could. Thanks to this, I completed my research. I examined the data sets I found and made the necessary arrangements. Later, I visualized these data sets and added them to the system.**
   
+# Video 
+<link> : https://drive.google.com/file/d/18w9M7yA6EMqXAeUytBJXc0fpfi--8yLi/view?usp=sharing
+  
 # References
 
 - **Ceylan, F , Özkan, B . (2020). Assessing Impacts of COVID-19 on Agricultural Production and Food Systems in the World and in Turkey . Gaziantep University Journal of Social Sciences , Cilt 19 COVID-19 Özel Sayısı , 472-485 . DOI: 10.21547/jss.784859**
